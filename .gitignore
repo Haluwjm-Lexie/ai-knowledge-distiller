@@ -1,0 +1,21 @@
+# Local credentials
+.env
+.env.*
+*.key
+*.pem
+.codex/
+.obsidian/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local test data
+obsidian-integration-test/
+fixture-vault/
+phase-b-candidates/
